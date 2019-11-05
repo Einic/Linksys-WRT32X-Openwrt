@@ -1,12 +1,12 @@
-# Linksys-WRT32X-Openwrt  
+## Linksys-WRT32X-Openwrt  
 
-##### 可实现链路聚合(新增LAN 1口为WAN口)  
+#### 可实现链路聚合(新增LAN 1口为WAN口)  
 
 ![Image text](https://github.com/Einic/Linksys-WRT32X-Openwrt/blob/master/img/interface.png)  
 
 ![Image text](https://github.com/Einic/Linksys-WRT32X-Openwrt/blob/master/img/vlan2.png)  
 
-## 定制软件：  
+### 定制功能：  
 
 一、新增USB驱动、负载均衡
 
@@ -18,7 +18,7 @@
    
    3) MWAN3 分流助手
 
-## 截图如下：  
+### 截图如下：  
 
 ![Image text](https://github.com/Einic/Linksys-WRT32X-Openwrt/blob/master/img/slb-status.png)  
 
