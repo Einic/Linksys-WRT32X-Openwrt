@@ -1,5 +1,7 @@
 ## Linksys-WRT32X-Openwrt  
 
+详细配置参考：https://www.infvie.com/ops-notes/linksys-wrt32x-openwrt.html   
+
 ##### 可实现链路聚合(新增LAN 1口为WAN口)  
 
 ![Image text](https://github.com/Einic/Linksys-WRT32X-Openwrt/blob/master/img/interface.png)  
