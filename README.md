@@ -1,6 +1,6 @@
 # Linksys-WRT32X-Openwrt  
 
-## 可实现链路聚合(新增LAN 1口为WAN口)  
+##### 可实现链路聚合(新增LAN 1口为WAN口)  
 
 ![Image text](https://github.com/Einic/Linksys-WRT32X-Openwrt/blob/master/img/interface.png)  
 
