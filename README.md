@@ -1,5 +1,11 @@
 ## Linksys-WRT32X-Openwrt  
 
+squashfs-factory.img 适用于从原厂系统刷openwrt系统；
+
+squashfs-sysupgrade.bin 适用于从openwrt系统刷openwrt系统(变更升级)；
+
+initramfs-kernel.bin 一般用于移植openwrt系统的时候与没有设备上的flash闪存的驱动的时候使用；
+
 详细配置参考：https://www.infvie.com/ops-notes/linksys-wrt32x-openwrt.html   
 
 ##### 可实现链路聚合(新增LAN 1口为WAN口)  
